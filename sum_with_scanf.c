@@ -9,3 +9,7 @@ printf("Total=%d\n", a + b);
 
 return 0;
 }
+
+// NOTES
+/*  Numbers → single variable → use &
+    Strings → many characters → need array  */
